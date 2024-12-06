@@ -1,0 +1,10 @@
+# Ignore compiled Go binaries
+*.exe
+*.out
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
+
+# Ignore environment files
+.env
